@@ -6,7 +6,9 @@ class Node(object):
         self.left = left
         self.right = right
         self.next = next
+        https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/789/
 """
+
 
 class Solution(object):
     def connect(self, root):
